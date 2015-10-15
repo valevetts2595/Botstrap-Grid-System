@@ -1,0 +1,46 @@
+a{
+  text-decoration: none;
+  color: black;
+}
+h3{
+  background-color: #bdbdbd;
+  height: 40px;
+  width: 60%;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 1px;
+}
+h2{
+  background-color: gray;
+  color: #ffffff;
+  width: 45%;
+
+}
+h4{
+  color: #ffffff;
+  background-color: black;
+  height: 20px;
+  width: 15%;
+}
+.historia{
+  background-color: gray;
+  width: 40%;
+  font-size: 20px;
+}
+.foto{
+  background-color:#bdbdbd;
+  color: #ffffff;
+  height: 300px;
+  font-size: 20px;
+  padding-top: 15%;
+}
+.fondo{
+  background-color:#bdbdbd;
+}
+.fondo2{
+  background-color: #bdbdbd;
+  width: 
+}
+
+
+}
